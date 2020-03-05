@@ -40,10 +40,7 @@ header::after {
 .col-8 {
     width: 66.67%
 }
-.logo {
-    height: 150px;
-    width: 150px;
-}
+
 header ul li {
     padding: 10px 20px;
     list-style: none;
