@@ -6,7 +6,7 @@
 body {
     font-family: 'Metrophobic', sans-serif;
     background-color: #ffffff;
-    background: url('media/MerlionNight.jpg') no-repeat fixed;
+    background: url('media/MerlionNight.jpg') no-repeat center fixed;
     background-size:cover;
     color: #363946;
 }
