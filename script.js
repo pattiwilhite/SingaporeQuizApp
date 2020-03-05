@@ -9,7 +9,7 @@ const STORE = [
         ],
       correctAnswer: 'Chewing Gum',
       icon: 'media/CorrectCheck.png',
-      alt: 'Check icon'
+     
     },
     {
       question: 'What is the symbol of Singapore?',
