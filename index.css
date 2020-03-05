@@ -6,7 +6,7 @@
 body {
     font-family: 'Metrophobic', sans-serif;
     background-color: #ffffff;
-    background: url('media/CoolStreet.jpg') fixed;
+    background: url('https://media/CoolStreet.jpg') fixed;
     color: #363946;
 }
 /*header styling*/
