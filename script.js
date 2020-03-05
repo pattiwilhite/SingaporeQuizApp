@@ -8,8 +8,8 @@ const STORE = [
         'Exotic Pets'
         ],
       correctAnswer: 'Chewing Gum',
-      icon: 'https://i.imgur.com/Rue4wCj.png',
-      alt: 'tent icon',
+      icon: 'https://media/Moon.png',
+      alt: 'moon icon',
      
     },
     {
