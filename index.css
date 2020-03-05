@@ -6,8 +6,12 @@
 body {
     font-family: 'Metrophobic', sans-serif;
     background-color: #ffffff;
-    background: url('media/MerlionNight.jpg') fixed;
-    color: #363946;
+    background: url('media/CoolStreet.jpg') no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+   color: #363946;
 }
 /*header styling*/
 
