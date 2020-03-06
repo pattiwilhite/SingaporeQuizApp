@@ -47,7 +47,7 @@ const STORE = [
       
     },
     {
-      question: 'What is the maximum height of skyscraper allowed in Singapore?',
+      question: 'What is the maximum height allowed for skyscrapers in Singapore?',
       answers: [
         '280 meters',
         '120 meters',
