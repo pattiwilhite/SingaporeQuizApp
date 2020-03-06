@@ -107,7 +107,7 @@ const STORE = [
      
     },
     {
-      question: 'What nickname has the city unofficially been referred to since the 1980s?',
+      question: 'What nickname has the city unofficially been referred as since the 1980s?',
       answers: [
         'The Clay City',
         'The Jungle City',
