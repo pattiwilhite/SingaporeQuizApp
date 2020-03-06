@@ -146,8 +146,8 @@ h2 {
 form button {
     padding: 20px;
     border: none;
-    background-color: #ebca52;
-    color: #363946;
+    background-color: #c028f6;
+    color: #ffffff;
     font-size: 18px;
     text-transform: uppercase;
     border-radius: 0;
@@ -158,8 +158,8 @@ form button {
     text-align: left;
 }
 form button:hover, form button:focus {
-    background-color: #363946;
-    color: #ebca52
+    background-color: #189ad3;
+    color: #ffffff
 }
 .answer {
     flex: 1 1 auto;
