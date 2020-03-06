@@ -153,11 +153,10 @@ form button {
     border-radius: 0;
     cursor: pointer;
     transition: all 0.3s ease;
-    margin-top: 10px;
-    margin-left: auto;
-    margin-right:auto;
     width: 50%;
     text-align: center;
+    display: block;
+    margin: 0 auto;
 }
 form button:hover, form button:focus {
     background-color: #189ad3;
