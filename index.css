@@ -154,8 +154,8 @@ form button {
     cursor: pointer;
     transition: all 0.3s ease;
     margin-top: 10px;
-    width: 100%;
-    text-align: left;
+    width: 50%;
+    text-align: center;
 }
 form button:hover, form button:focus {
     background-color: #189ad3;
