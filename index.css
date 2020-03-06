@@ -82,23 +82,23 @@ button {
     margin-top: 40px
 }
 button:hover, button:focus {
-    background-color: #9F0102;
-    color: #ebca52
+    background-color: #189ad3;
+    color: #c028f6
 }
 main div {
     margin: 0 auto;
 }
 label:nth-child(1) {
-    background-color: #3866AF
+    background-color: #107dac
 }
 label:nth-child(2) {
-    background-color: #387AAF
+    background-color: #189ad3
 }
 label:nth-child(3) {
     background-color: #3894AF
 }
 label:nth-child(4) {
-    background-color: #38A9AF
+    background-color: #71c7ec
 }
 label {
     padding: 20px;
@@ -111,7 +111,7 @@ label {
     line-height: 22px
 }
 label:hover, label:focus {
-    background-color: #9F0102
+    background-color: #c028f6
 }
 fieldset {
     border: none;
