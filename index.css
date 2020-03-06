@@ -82,7 +82,7 @@ button {
     margin-top: 40px
 }
 button:hover, button:focus {
-    background-color: #363946;
+    background-color: #9F0102;
     color: #ebca52
 }
 main div {
@@ -111,7 +111,7 @@ label {
     line-height: 22px
 }
 label:hover, label:focus {
-    background-color: #AF6438
+    background-color: #9F0102
 }
 fieldset {
     border: none;
