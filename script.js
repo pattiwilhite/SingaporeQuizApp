@@ -20,8 +20,7 @@ const STORE = [
         'Cat'
         ],
         correctAnswer: 'Lion',
-        icon: 'https://i.imgur.com/iQ0FBhB.png',
-        alt: 'shield for 10 essentials icon'
+        icon: 'media/Merlion2.png',
     },
     {
       question: 'Which of these was founded in Singapore?',
@@ -32,8 +31,8 @@ const STORE = [
         'World Toilet Organization'
         ],
         correctAnswer: 'World Toilet Organization',
-        icon: 'https://i.imgur.com/uXukVjk.png',
-        alt: 'weight icon'
+        icon: 'media/Merlion2.png',
+        
     },
     {
       question: 'What is the currecny of Singapore?',
@@ -44,8 +43,8 @@ const STORE = [
         'Euro'
         ],
       correctAnswer: 'Dollar',
-      icon: 'https://i.imgur.com/i0Q515j.png',
-      alt: 'bear paw icon'
+      icon: 'media/Merlion2.png',
+      
     },
     {
       question: 'What is the maximum height of skyscraper allowed in Singapore?',
@@ -56,8 +55,8 @@ const STORE = [
         '380 meters'
         ],
       correctAnswer: '280 meters',
-      icon: 'https://i.imgur.com/LHRMcBd.png',
-      alt: 'hat icon'
+      icon: 'media/Merlion2.png',
+      
     },
     {
       question: 'What is the name of the International Airport in Singapore?',
@@ -68,8 +67,8 @@ const STORE = [
         'LaGuardia Airport'
         ],
       correctAnswer: 'Changi International Airport',
-      icon: 'https://i.imgur.com/XEwf3tK.png',
-      alt: 'water bottle icon'
+      icon: 'media/Merlion2.png',
+      
     },
     {
       question: 'What is the famous street that runs through the commercial district of Singapore?',
@@ -80,8 +79,8 @@ const STORE = [
       'Hanshin Expressway'
       ],
       correctAnswer: 'Orchard Road',
-      icon: 'https://i.imgur.com/Kk9t3qL.png',
-      alt: 'stream icon'
+      icon: 'media/Merlion2.png',
+      
     },
     {
       question: 'The most popular tourist attraction in Singapore is and Island called what?',
@@ -92,8 +91,8 @@ const STORE = [
         'Staten Island'
       ],
       correctAnswer: 'Sentosa Island',
-      icon: 'https://i.imgur.com/A2cWS88.png',
-      alt: 'compass icon'
+      icon: 'media/Merlion2.png',
+      
     },
     {
       question: 'The name Singapore is Derived from the work Sanskrit. What does it mean?',
@@ -104,8 +103,8 @@ const STORE = [
       'Lion City'
       ],
       correctAnswer: 'Lion City',
-      icon: 'https://i.imgur.com/VwFRlXL.png',
-      alt: 'bear head icon'
+      icon: 'media/Merlion2.png',
+     
     },
     {
       question: 'What nickname has the city been unofficially been referred to since the 1980s?',
@@ -116,8 +115,8 @@ const STORE = [
         'The Sin City'
     ],
     correctAnswer: 'The Fine City',
-    icon: 'https://i.imgur.com/YdcTVPW.png',
-    alt: 'skull and crossbones icon'
+    icon: 'media/Merlion2.png',
+    
     }
 ];
 
