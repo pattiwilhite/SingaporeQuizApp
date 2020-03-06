@@ -116,7 +116,7 @@ function renderResults () {
   } else if (score < 8 && score >= 5) {
     $('.questionAnswerForm').html(`<div class="results correctFeedback"><h3>Almost there!</h3><img src="media/Merlion2.png" /><p>You got ${score} / 10</p><p>Brush up on your random Singapore facts and you'll pass in no time!</p><button class="restartButton">Restart Quiz</button></div>`);
   } else {
-    $('.questionAnswerForm').html(`<div class="results correctFeedback"><h3>Singapore should be your next vacation spot</h3><img src="media/Merlion2.png"/><p>You got ${score} / 10</p><p>Add a little more jetsetting to your bucket list and you'll be prepared to ace this quiz!</p><button class="restartButton">Restart Quiz</button></div>`);
+    $('.questionAnswerForm').html(`<div class="results correctFeedback"><h3>Maybe study a bit more!</h3><img src="media/Merlion2.png"/><p>You got ${score} / 10</p><p>Add a little more jetsetting to your bucket list and you'll be prepared to ace this quiz!</p><button class="restartButton">Restart Quiz</button></div>`);
   }
 }
 
