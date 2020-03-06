@@ -72,7 +72,7 @@ h1 {
 button {
     padding: 20px;
     border: none;
-    background-color: #38A9AF;
+    background-color: #c028f6;
     color: #ffffff;
     font-size: 18px;
     text-transform: uppercase;
@@ -83,7 +83,7 @@ button {
 }
 button:hover, button:focus {
     background-color: #189ad3;
-    color: #c028f6
+    color: #ffffff
 }
 main div {
     margin: 0 auto;
