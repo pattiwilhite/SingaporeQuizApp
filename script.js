@@ -83,7 +83,7 @@ const STORE = [
       
     },
     {
-      question: 'The most popular tourist attraction in Singapore is and Island called what?',
+      question: 'The most popular tourist attraction in Singapore is an Island called what?',
       answers: [
         'Sentosa Island',
         'Bintan Island',
@@ -95,7 +95,7 @@ const STORE = [
       
     },
     {
-      question: 'The name Singapore is Derived from the work Sanskrit. What does it mean?',
+      question: 'The name Singapore is derived from the word Sanskrit. What does it mean?',
       answers: [
       'Cheap Karaoke',
       'Beautiful Harbor',
@@ -107,7 +107,7 @@ const STORE = [
      
     },
     {
-      question: 'What nickname has the city been unofficially been referred to since the 1980s?',
+      question: 'What nickname has the city unofficially been referred to since the 1980s?',
       answers: [
         'The Clay City',
         'The Jungle City',
