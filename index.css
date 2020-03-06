@@ -38,7 +38,7 @@ header::after {
     width: 33.33%
 }
 .col-8 {
-    width: 55.5%
+    width: 66.67%
 }
 
 header ul li {
@@ -51,7 +51,7 @@ header ul li {
     align-content: center;
 }
 header ul {
-    text-align: center;
+    text-align: left;
     margin-top: 50px;
 }
 /*Quiz start screen styling*/
